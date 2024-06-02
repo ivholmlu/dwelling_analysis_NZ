@@ -1,0 +1,47 @@
+{"heating" : {
+"Census_2018_Occupied_private_dwelling_type_Total" : "total_dwlg",
+"Census_2018_Main_types_of_heating_total_responses_1_Heat_pump_occupied_private_dwellings" : "Heat Pump",
+"Census_2018_Main_types_of_heating_total_responses_2_Electric_heater_occupied_private_dwellings" : "Electric",
+"Census_2018_Main_types_of_heating_total_responses_3_Fixed_gas_heater_occupied_private_dwellings" : "Gas(fixed)",
+"Census_2018_Main_types_of_heating_total_responses_4_Portable_gas_heater_occupied_private_dwellings" : "Gas(portable",
+"Census_2018_Main_types_of_heating_total_responses_5_Wood_burner_occupied_private_dwellings" : "Wood",
+"Census_2018_Main_types_of_heating_total_responses_6_Pellet_fire_occupied_private_dwellings" : "Pellets",
+"Census_2018_Main_types_of_heating_total_responses_7_Coal_burner_occupied_private_dwellings" : "Coal",
+"Census_2018_Main_types_of_heating_total_responses_8_Other_types_of_heating_occupied_private_dwellings" : "Other",
+"Census_2018_Dwelling_dampness_indicator_Total_damp_dwellings_occupied_private_dwellings": "*Total Damp",
+"Census_2018_Dwelling_mould_indicator_Total_mouldy_dwellings_occupied_private_dwellings": "*Total Mould"
+},
+"fuel" : {"Census_2018_Fuel_types_total_responses_011_Electricity_occupied_private_dwellings" : "Electricity",
+"Census_2018_Fuel_types_total_responses_012_Gas_occupied_private_dwellings" : "Gas",
+"Census_2018_Fuel_types_total_responses_013_Wood_occupied_private_dwellings" : "Wood",
+"Census_2018_Fuel_types_total_responses_014_Coal_occupied_private_dwellings" : "Coal",
+"Census_2018_Fuel_types_total_responses_015_Home_heating_oil_occupied_private_dwellings" : "Oil",
+"Census_2018_Fuel_types_total_responses_016_Solar_power_occupied_private_dwellings" : "Solar power",
+"Census_2018_Fuel_types_total_responses_017_No_fuels_used_in_this_dwelling_occupied_private_dwellings" : "No fuel",
+"Census_2018_Fuel_types_total_responses_018_Other_fuels_occupied_private_dwellings" : "Other"}
+"conditions" : {
+
+
+},
+"Gisborne_polygons" : [207300, 207200, 207100,
+                        207000, 206900, 206800,
+                        206700, 206600, 206500,
+                        206400, 206300, 206200,
+                        206100, 206000, 205900,
+                        205800, 205700, 205600,
+                        205500, 205400, 205200],
+"Wellington_polygons" : [247500, 250700, 251400,
+                            251500, 251600, 251700,
+                            251800, 251900, 252000,
+                            252100, 252200, 252300,
+                            252400, 252500, 252600,
+                            252700, 252800, 252900,
+                            253000, 253100, 253200,
+                            253300, 253400, 253500,
+                            253600, 253700, 253800,
+                            253900, 254000, 254100,
+                            254200, 254300, 254400,
+                            254500, 254600, 254700,
+                            254800, 254900, 255000,
+                            255100, 255200]
+}
