@@ -1,0 +1,11 @@
+{
+"Census_2018_Main_types_of_heating_total_responses_0_No_heating_used_occupied_private_dwellings" : "No heating",
+"Census_2018_Main_types_of_heating_total_responses_1_Heat_pump_occupied_private_dwellings" : "Heat Pump",
+"Census_2018_Main_types_of_heating_total_responses_2_Electric_heater_occupied_private_dwellings" : "Electrix",
+"Census_2018_Main_types_of_heating_total_responses_3_Fixed_gas_heater_occupied_private_dwellings" : "Fixed gas",
+"Census_2018_Main_types_of_heating_total_responses_4_Portable_gas_heater_occupied_private_dwellings" : "Portable gas",
+"Census_2018_Main_types_of_heating_total_responses_5_Wood_burner_occupied_private_dwellings" : "Wood",
+"Census_2018_Main_types_of_heating_total_responses_6_Pellet_fire_occupied_private_dwellings" : "Pellets",
+"Census_2018_Main_types_of_heating_total_responses_7_Coal_burner_occupied_private_dwellings" : "Coal",
+"Census_2018_Main_types_of_heating_total_responses_8_Other_types_of_heating_occupied_private_dwellings" : "Other"
+}

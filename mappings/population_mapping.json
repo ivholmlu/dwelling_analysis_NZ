@@ -1,0 +1,81 @@
+{
+    "1" :  {
+        "Area_code" : "Area_code",
+        "Census_2018_Sex_Total_CURP" : "Total",
+        "Census_2018_Sex_1_Male_CURP" : "Male",
+        "Census_2018_Sex_2_Female_CURP" : "Female",
+        "Census_2018_Age_broad_groups_1_Under_15_years_CURP" : "Under 15",
+        "Census_2018_Age_broad_groups_2_15_to_29_years_CURP" : "15 to 29",
+        "Census_2018_Age_broad_groups_3_30_to_64_years_CURP" : "30 to 64",
+        "Census_2018_Age_broad_groups_4_65_years_and_over_CURP" : "65 and over",
+        "Census_2018_Age_5_year_groups_by_sex_Median_age_1_Male_CURP" : "Median age male",
+        "Census_2018_Age_5_year_groups_by_sex_Median_age_2_Female_CURP" : "Median age female",
+        "Census_2018_Ethnicity_grouped_total_responses_level_1_1_European_CURP" : "European",
+        "Census_2018_Ethnicity_grouped_total_responses_level_1_2_Māori_CURP" : "Māori",
+        "Census_2018_Ethnicity_grouped_total_responses_level_1_3_Pacific_Peoples_CURP" : "Pacific",
+        "Census_2018_Ethnicity_grouped_total_responses_level_1_4_Asian_CURP" : "Asian",
+        "Census_2018_Ethnicity_grouped_total_responses_level_1_5_Middle_Eastern_Latin_American_African_CURP" : "Middle Eastern, Latin American, African",
+        "Census_2018_Ethnicity_grouped_total_responses_level_1_6_Other_Ethnicity_CURP" : "Other",
+        "Census_2018_Ethnicity_grouped_total_responses_level_2_61_New_Zealander_CURP" : "New Zealander",
+        "Census_2018_Maori_descent_01_Māori_descent_CURP" : "Māori descent",
+        "Census_2018_Maori_descent_02_No_Māori_descent_CURP" : "No Māori descent",
+        "Census_2018_Maori_descent_04_Dont_know_CURP" : "Don't know Maori descent"
+    },
+    "2" :  {
+        "Area_code" : "Area_code",
+        "Census_2018_Highest_qualification_001_Level_1_certificate_CURP_15years_and_over" : "Level 1 certificate",
+        "Census_2018_Highest_qualification_002_Level_2_certificate_CURP_15years_and_over" : "Level 2 certificate",
+        "Census_2018_Highest_qualification_003_Level_3_certificate_CURP_15years_and_over" : "Level 3 certificate",
+        "Census_2018_Highest_qualification_004_Level_4_certificate_CURP_15years_and_over" : "Level 4 certificate",
+        "Census_2018_Highest_qualification_005_Level_5_diploma_CURP_15years_and_over" : "Level 5 diploma",
+        "Census_2018_Highest_qualification_006_Level_6_diploma_CURP_15years_and_over" : "Level 6 Advanced diploma",
+        "Census_2018_Highest_qualification_007_Bachelor_degree_and_Level_7_qualification_CURP_15years_and_over" : "Bachelor degree and Level 7 qualification",
+        "Census_2018_Highest_qualification_008_Post_graduate_and_honours_degrees_CURP_15years_and_over" : "Post graduate and honours degrees",
+        "Census_2018_Highest_qualification_009_Masters_degree_CURP_15years_and_over" : "Masters degree",
+        "Census_2018_Highest_qualification_010_Doctorate_degree_CURP_15years_and_over" : "Doctorate degree",
+        "Census_2018_Highest_qualification_Total_stated_CURP_15years_and_over" : "Total stated qualification",
+        "Census_2018_Grouped_personal_income_1_5000_or_less_CURP_15years_and_over" : "5000 or less",
+        "Census_2018_Grouped_personal_income_2_5001_to_10000_CURP_15years_and_over" : "5001 to 10000",
+        "Census_2018_Grouped_personal_income_3_10001_to_20000_CURP_15years_and_over" : "10001 to 20000",
+        "Census_2018_Grouped_personal_income_4_20001_to_30000_CURP_15years_and_over" : "20001 to 30000",
+        "Census_2018_Grouped_personal_income_5_30001_to_50000_CURP_15years_and_over" : "30001 to 50000",
+        "Census_2018_Grouped_personal_income_6_50001_to_70000_CURP_15years_and_over" : "50001 to 70000",
+        "Census_2018_Grouped_personal_income_7_70001_or_more_CURP_15years_and_over" : "70001 or more",
+        "Census_2018_Grouped_personal_income_Total_stated_CURP_15years_and_over" : "Total stated personal income"
+    },
+    "3a" : {
+        "Area_code" : "Area_code",
+        "Census_2018_Work_and_labour_force_status_1_Employed_Full_time_CURP_15years_and_over" : "Employed Full time",
+        "Census_2018_Work_and_labour_force_status_2_Employed_Part_time_CURP_15years_and_over" : "Employed Part time",
+        "Census_2018_Work_and_labour_force_status_3_Unemployed_CURP_15years_and_over" : "Unemployed",
+        "Census_2018_Work_and_labour_force_status_4_Not_in_the_labour_force_CURP_15years_and_over" : "Not in the labour force",
+        "Census_2018_Work_and_labour_force_status_Total_stated_CURP_15years_and_over" : "Total stated labour force status"
+    },
+    "3b" : {
+        "Census_2018_Hours_worked_per_week_1_1_to_9_hours_worked_CURP_employed_15years_and_over" : "1 to 9 hours worked",
+        "Census_2018_Hours_worked_per_week_2_10_to_19_hours_worked_CURP_employed_15years_and_over" : "10 to 19 hours worked",
+        "Census_2018_Hours_worked_per_week_3_20_to_29_hours_worked_CURP_employed_15years_and_over" : "20 to 29 hours worked",
+        "Census_2018_Hours_worked_per_week_4_30_to_39_hours_worked_CURP_employed_15years_and_over" : "30 to 39 hours worked",
+        "Census_2018_Hours_worked_per_week_5_40_to_49_hours_worked_CURP_employed_15years_and_over" : "40 to 49 hours worked",
+        "Census_2018_Hours_worked_per_week_6_50_to_59_hours_worked_CURP_employed_15years_and_over" : "50 to 59 hours worked",
+        "Census_2018_Hours_worked_per_week_7_60_hours_or_more_worked_CURP_employed_15years_and_over" : "60 hours or more worked",
+        "Census_2018_Hours_worked_per_week_Total_stated_CURP_employed_15years_and_over" : "Total stated hours worked"
+    },
+    "Gisborne_polygons" : [
+        "207300", "207200", "207100", "207000", "206900", "206800",
+        "206700", "206600", "206500", "206400", "206300", "206200",
+        "206100", "206000", "205900", "205800", "205700", "205600",
+        "205500", "205400", "205200"
+    ],
+    
+    "Wellington_polygons" : [
+        "247500","250700", "251400", "251500", "251600", "251700",
+        "251800", "251900", "252000", "252100", "252200", "252300",
+        "252400", "252500", "252600", "252700", "252800", "252900",
+        "253000", "253100", "253200", "253300", "253400", "253500",
+        "253600", "253700", "253800", "253900", "254000", "254100",
+        "254200", "254300", "254400", "254500", "254600", "254700",
+        "254800", "254900", "255000", "255100", "255200"
+    ]
+    
+    }
